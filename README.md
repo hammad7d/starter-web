@@ -24,3 +24,5 @@ g --all --graph - -decorate - -oneline
 aliasing
 git hist
 git config --global alias.hist "log --all --graph - -decorate - -oneline"
+
+buahahahah
